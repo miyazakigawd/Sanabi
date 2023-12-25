@@ -17,5 +17,5 @@
 > https://drive.google.com/file/d/1n-wKmzmus3JQcF9hlWOq4avv_-H_5Ihr/view?usp=sharing
 
 ## Remerciements
-Merci à tout les étudiants qui ont participé à l'événement (joueurs, concepteurs, animateurs).
+Merci à tout les étudiants qui ont participé à l'évènement (joueurs, concepteurs, animateurs).
 Et amusez-vous bien !
