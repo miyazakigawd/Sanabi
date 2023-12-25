@@ -14,6 +14,8 @@
 * Vous allez tomber sur une page de connexion dont vous ne connaissez pas le mot de passe, scannez votre réseau local (pas marrant sinon) pour trouver l'adresse de la machine.
 
 ## Téléchargement
-> Text that is a quote
+> https://drive.google.com/file/d/1n-wKmzmus3JQcF9hlWOq4avv_-H_5Ihr/view?usp=sharing
 
-ahf
+## Remerciements
+Merci à tout les étudiants qui ont participé à l'événement (joueurs, concepteurs, animateurs).
+Et amusez-vous bien !
