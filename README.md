@@ -1,5 +1,11 @@
-# Hackathon Piratec 2023 | Sanabi
+# Sanabi (Hackathon Piratec 2023)
 ![machine screen](https://github.com/miyazakigawd/Sanabi/blob/main/screenshot.PNG)
+
+## Prérequis
+- VirtualBox
+* Nmap
+- SSH / FTP
++ LinPeas (pas nécessaire)
 
 ## Installation et utilisation
 - Télécharger le disque VDI.
